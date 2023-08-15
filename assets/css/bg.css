@@ -1,0 +1,13 @@
+.bg-none {
+    background: none !important;
+}
+
+.bg-main{
+    background: var(--color-main) !important;
+}
+.bg-gray{
+    background-color: #f3f3f3!important;
+}
+.border-gray{
+    border: 1px solid #eee;
+}

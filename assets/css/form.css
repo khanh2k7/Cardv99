@@ -1,0 +1,18 @@
+
+.form-control,.form-control:hover,.form-control:focus {
+    box-shadow: none !important;
+    outline: 0 !important;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+}
+.form-check-input {
+    box-shadow: none !important;
+    border-color: var(--bs-border-color)!important;
+}
+
+.form-check-input:checked {
+    background-color: var(--color-main);
+    border-color: var(--color-main);
+}
+.form-main{
+    height: 2.7rem;
+}

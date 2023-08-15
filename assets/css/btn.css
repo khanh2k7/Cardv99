@@ -1,0 +1,21 @@
+
+.btn-main {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: var(--color-main);
+    --bs-btn-border-color: var(--color-main);
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: var(--color-main);
+    --bs-btn-hover-border-color: var(--color-main);
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    box-shadow: none;
+    outline: 0;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: var(--color-main);
+    --bs-btn-active-border-color: var(--color-main);
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: var(--color-main);
+    --bs-btn-disabled-border-color: var(--color-main);
+    border: none;
+    height: 2.7rem;
+}
